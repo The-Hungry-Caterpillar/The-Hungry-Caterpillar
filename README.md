@@ -7,7 +7,7 @@
 
 I am a Bioinformatics and Genomics Master's student at the University of Oregon. \
 I enjoy using my skills in Python, R, and bash to draw meaning from complex data sets -- checkout my repos! \
-My previous research edeavours: 
+My previous research edeavors: 
 
 * Domain calling using HiC data from cancer tissue -- discovered 1600 differential domains.
 * Finding 3d motions 1400 of variable-type stars
