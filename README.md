@@ -1,8 +1,9 @@
+# Jonathan Ogata
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-ogata/)
 
 
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jonthan Ogata.
-
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a Bioinformatics and Genomics Master's student at the University of Oregon. \
 I enjoy using my skills in Python, R, and bash to draw meaning from complex data sets -- checkout my repos! \
