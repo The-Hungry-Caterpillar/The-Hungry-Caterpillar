@@ -10,10 +10,3 @@ My previous research edeavors:
 * Domain calling using HiC data from cancer tissue -- discovered 1600 differential domains.
 * Finding 3d motions 1400 of variable-type stars
 
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Hungry-Caterpillar&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Hungry-Caterpillar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
